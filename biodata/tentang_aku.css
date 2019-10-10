@@ -1,0 +1,45 @@
+body {
+	background-image: url(images/nature-aesthetic-wallpaper.jpg);
+}
+img{
+	border: 4px solid #575D63;
+	margin: 20px;
+	padding: 10px;
+	width: 230px;
+	height: 200px;
+}
+a{
+	float: right;
+	padding: 10px;
+	text-decoration: none;
+}
+.caption img{
+	display: block;
+}
+.caption button{
+	margin-left: 20px;
+}
+.gambar ul{
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+.gambar ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+.box{
+	width: 1050px;
+	height: 210px;
+	margin: 30px auto;
+	background-color: #ffffff;
+	opacity: 0.8;
+}
+p{
+	text-align: center;
+	margin-left: 10px;
+	font-family: Castellar;
+	font-size: 20px;
+	font-weight: bold;
+}
